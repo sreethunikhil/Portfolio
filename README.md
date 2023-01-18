@@ -44,10 +44,10 @@
 							<p>Enhance your online presence</p>
 						</div>
 					</div>
-					<div class="col-md-8 text-md-right header-buttons">
+					<!-- <div class="col-md-8 text-md-right header-buttons">
 						<a href="#" class="site-btn">Download CV</a>
 						<a href="#" class="site-btn">Discover me</a>
-					</div>
+					</div> -->
 				</div>
 			</div>
 		</header>
@@ -63,17 +63,17 @@
 								<img src="img/hero-3.jpg" alt="">
 							</figure>
 							<div class="hero-text">
-								<h2>Maria<br>Williams</h2>
+								<h2>Sreethu<br>K</h2>
 								<p>I’m a digital designer in love with photography, painting and discovering new worlds and cultures.</p>
 							</div>
 							<p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse consectetur eget felis et volutpat. Integer id nulla at diam eleifend fringilla. Donec eu ornare libero. Fusce pulvinar magna id pharetra laoreet. Donec convallis cursus libero. Nam semper risus sit amet rhoncus maximus. Integer eros ante, convallis sit amet vulputate nec, molestie vitae nisi. Phasellus convallis augue vel rhoncus congue. Morbi interdum molestie orci sed ullamcorper. Vivamus aliquet eros ut leo luctus, a venenatis metus faucibus. Maecenas ipsum nisi, iaculis in orci vel, molestie gravida erat. </p>
 							<div class="hero-info pt-5">
 								<h2>General Info</h2>
 								<ul>
-									<li><span>Date of Birth</span>Aug 25, 1988</li>
-									<li><span>Address</span>Rosia Road 55, Gibraltar, UK</li>
-									<li><span>E-mail</span>mariawilliams@company.com</li>
-									<li><span>Phone </span>+43 5266 22 345</li>
+									<li><span>Date of Birth</span>May 5, 1995</li>
+									<!-- <li><span>Address</span>Rosia Road 55, Gibraltar, UK</li> -->
+									<li><span>E-mail</span>SreethuKaranthottathil@gmail.com</li>
+									<!-- <li><span>Phone </span>+43 5266 22 345</li> -->
 								</ul>
 							</div>
 						</section>
@@ -119,7 +119,7 @@
 									<div class="fact-box">
 										<div class="fact-content">
 											<img src="img/icon/1-w.png" alt="">
-											<h2>14</h2>
+											<h2>5+</h2>
 											<p>Years of Experience</p>
 										</div>
 									</div>
@@ -142,8 +142,8 @@
 							</div>
 							<ul class="language-progress">
 								<li>English <div class="lan-prog" data-lanprogesss="5"></div></li>
-								<li>Spanish <div class="lan-prog" data-lanprogesss="4"></div></li>
-								<li>Chinesse <div class="lan-prog" data-lanprogesss="3"></div></li>
+								<li>Malayalam <div class="lan-prog" data-lanprogesss="5"></div></li>
+								<li>Hindi <div class="lan-prog" data-lanprogesss="3"></div></li>
 							</ul>
 						</section>
 						<div class="social-links">
@@ -165,14 +165,20 @@
 							<ul class="resume-list">
 								<li>
 									<h2>2016-Present</h2>
-									<h3>Web Design Company</h3>
-									<h4>Web Designer</h4>
+									<h3>Dynavate Technologies</h3>
+									<h4>Senior Software Engineer</h4>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle ntesque tincidunt lorem, vitae euismod felis porttitor sed. </p>
 								</li>
 								<li>
 									<h2>2014-2016</h2>
-									<h3>Web Design Company</h3>
-									<h4>Web Designer</h4>
+									<h3>Smartwave Solutions Pvt Ltd</h3>
+									<h4>Software Engineer</h4>
+									<p>Sit amet, consectetur adipiscing elit. Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle ntesque tincidunt lorem, vitae euismod felis porttitor sed. </p>
+								</li>
+								<li>
+									<h2>2014-2016</h2>
+									<h3>Proinn Technolect</h3>
+									<h4>Software Engineer</h4>
 									<p>Sit amet, consectetur adipiscing elit. Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle ntesque tincidunt lorem, vitae euismod felis porttitor sed. </p>
 								</li>
 							</ul>
@@ -186,15 +192,15 @@
 							</div>
 							<ul class="resume-list">
 								<li>
-									<h2>2008</h2>
-									<h3>Ui/Ux Diploma</h3>
-									<h4>Design College California</h4>
+									<h2>2013-2017</h2>
+									<h3>Bachelor of Engineering & Technology</h3>
+									<h4>Electronics and Communication Engineering</h4>
 									<p>Sit amet, consectetur adipiscing elit. Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle ntesque tincidunt lorem, vitae euismod felis porttitor sed. </p>
 								</li>
 								<li>
-									<h2>2006</h2>
-									<h3>Web design Diploma</h3>
-									<h4>Design College California</h4>
+									<h2>2011-2013</h2>
+									<h3>Higher Secondary Education</h3>
+									<h4>P.E.S Vidyalaya</h4>
 									<p>Sit amet, consectetur adipiscing elit. Sed porttitor orci ut sapien scelerisque viverra. Sed trist ique justo nec mauris efficitur, ut lacinia elit dapibus. In egestas elit in dap ibus laoreet. Duis magna libero, fermentum ut facilisis id, pulvinar eget tortor. Vestibulum pelle ntesque tincidunt lorem, vitae euismod felis porttitor sed. </p>
 								</li>
 							</ul>
@@ -258,13 +264,10 @@
 									<i class="flaticon-032-cooking"></i>
 									<p>Cooking</p>
 								</div>
-								<div class="icon-box">
-									<i class="flaticon-015-photo-camera"></i>
-									<p>Photography</p>
-								</div>
+								
 								<div class="icon-box">
 									<i class="flaticon-013-chess-1"></i>
-									<p>Playing Chess</p>
+									<p>Watching Movies</p>
 								</div>
 								<div class="icon-box">
 									<i class="flaticon-001-yoga"></i>
